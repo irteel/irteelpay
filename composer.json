@@ -1,0 +1,17 @@
+{
+    "name": "irteel/irteelpay",
+    "authors": [
+        {
+            "name": "Cyrille Brice Bidongo Bekono",
+            "email": "irteel.cm@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "irteelPay": "php-sdk/src/"
+        }
+    }
+}
